@@ -1,0 +1,1 @@
+I am starting to learn ruby on rails, from scratch.
